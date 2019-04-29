@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="PregnantMonitor" />
+    <version value="7" />
+    <list>
+        <mapping class="com.ZJUMC.umc.Data.User"/>
+        <mapping class="com.ZJUMC.umc.Data.Record"/>
+    </list>
+</litepal>
