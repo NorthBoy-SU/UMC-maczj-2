@@ -1,11 +1,10 @@
-# PreganantMonitor
+# UMCliving
 
 ### 说明
 
 * 免责声明：本项目旨在学习Android开发的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。
 * 开源方式：License [GPLv3](License.md)
-* 包含功能：一个为孕妇打造的APP，基于SVM、RandomForest等算法进行机器学习，目前可根据孕妇年龄身高、体重、空腹血糖OGTT值预测孕妇是否患糖尿病。
-* 若使用中遇到遇到问题， **Plz Issue**
+* 包含：一个为广大大学生打造的APP
 
 ### 本地部署  
 
